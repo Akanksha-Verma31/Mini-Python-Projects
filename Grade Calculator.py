@@ -1,3 +1,5 @@
+![Grade Calculator 2](https://user-images.githubusercontent.com/82774834/129340803-8ebbfb89-85a1-4670-ba82-a109658336d8.PNG)
+
 # GUI Project
 import tkinter     # all the GUI projects in python are made using tkinter library
 from tkinter import *    # * means import each n everything
