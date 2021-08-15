@@ -7,6 +7,7 @@ t = turtle.Turtle()
 #mixer.init()
 #mixer.music.load('song_name.mp3')
 #mixer.music.play()
+#in my case pygame wasn't working so i just commented those codes
 
 t.pensize(5)
 
