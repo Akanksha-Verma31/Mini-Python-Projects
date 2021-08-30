@@ -14,7 +14,7 @@ root.config(bg="pink")   # to set the bg color
 root.geometery("500x250")
 
 label1 = Label(root,text="Internet Speed Checker",font=("arial",30,"bold"),bg="lightblue").pack()    # pack() will allow to put these line by line
-button1 = Button(root,text="Click !!",font=("arial",20,"bold"),bg="yellow,height=1,width=10,command=one).pack()
+button1 = Button(root,text="Click !!",font=("arial",20,"bold"),bg="yellow",height=1,width=10,command=one).pack()
                  
                  
 root.mainloop()
